@@ -1,0 +1,15 @@
+ImageHoster/service/TagService.class
+ImageHoster/service/ImageService.class
+ImageHoster/repository/UserRepository.class
+ImageHoster/model/UserProfile.class
+ImageHoster/service/UserService.class
+ImageHoster/model/User.class
+ImageHoster/model/Tag.class
+ImageHoster/repository/ImageRepository.class
+ImageHoster/repository/TagRepository.class
+ImageHoster/controller/HomeController.class
+ImageHoster/controller/UserController.class
+ImageHoster/config/JpaConfig.class
+ImageHoster/controller/ImageController.class
+ImageHoster/ImageHosterApplication.class
+ImageHoster/model/Image.class
